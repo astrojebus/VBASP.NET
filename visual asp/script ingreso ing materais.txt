@@ -1,0 +1,31 @@
+USE [septimo]
+GO
+/****** Object:  StoredProcedure [dbo].[prMaterias_A2]    Script Date: 10/12/2014 19:58:13 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		jesus bustos
+-- Create date: <Create Date,,>
+-- Description:	agrega datos en tabla materias
+-- =============================================
+ALTER PROCEDURE [dbo].[prMaterias_A2]
+	-- Add the parameters for the stored procedure here
+	@codigo varchar(8),
+	@materia varchar(50),
+	@creditos int,
+	@laboratorio bit,
+	@activa bit,
+	@fechaCreacion date,
+	@msg varchar(100) output -- parametro de salida /devuelve valor
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+  insert into materias(codigo,materia,creditos,carrera,laboratorio,activa,fechaCreacion)
+  values(@codigo,@materia,@creditos,@carrera,@laboratorio,@activa,@fechaCreacion)
+  set @msg='filas agregadas '+ltrim(str(@@ROWCOUNT))
+END

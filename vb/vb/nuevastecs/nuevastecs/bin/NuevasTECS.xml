@@ -1,0 +1,780 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NuevasTECS
+</name>
+</assembly>
+<members>
+<member name="F:NuevasTECS.SaludoMast.txtNombre">
+	<summary>
+Control txtNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.SaludoMast.lbAceptar">
+	<summary>
+Control lbAceptar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.SaludoMast.lblMensaje">
+	<summary>
+Control lblMensaje.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.Login.txtNombreUsuario">
+	<summary>
+Control txtNombreUsuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.Login.txtClave">
+	<summary>
+Control txtClave.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.Login.btnIngresar">
+	<summary>
+Control btnIngresar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.linkMostrar">
+	<summary>
+Control linkMostrar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.linkOcultarEstudiantes">
+	<summary>
+Control linkOcultarEstudiantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.GridView2">
+	<summary>
+Control GridView2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.linkMostrarMaterias">
+	<summary>
+Control linkMostrarMaterias.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.linkOcultarMaterias">
+	<summary>
+Control linkOcultarMaterias.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.GridView3">
+	<summary>
+Control GridView3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.linkMostrarNotas">
+	<summary>
+Control linkMostrarNotas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.linkOcultarNotas">
+	<summary>
+Control linkOcultarNotas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoManualMaste.GridView4">
+	<summary>
+Control GridView4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagPrincipal.head">
+	<summary>
+Control head.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagPrincipal.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagPrincipal.Menu1">
+	<summary>
+Control Menu1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagPrincipal.ContentPlaceHolder1">
+	<summary>
+Control ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.txtNombre">
+	<summary>
+Control txtNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.txtApellido">
+	<summary>
+Control txtApellido.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.lstGenero">
+	<summary>
+Control lstGenero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.txtFechaNacimiento">
+	<summary>
+Control txtFechaNacimiento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.btnGuardar">
+	<summary>
+Control btnGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.btnLimpiar">
+	<summary>
+Control btnLimpiar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.lblMensaje">
+	<summary>
+Control lblMensaje.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroEstudiantesMast.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.txtNombreUsuario">
+	<summary>
+Control txtNombreUsuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.txtClave">
+	<summary>
+Control txtClave.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.txtConfirmaClave">
+	<summary>
+Control txtConfirmaClave.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.txtNombres">
+	<summary>
+Control txtNombres.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.txtApellidos">
+	<summary>
+Control txtApellidos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.btnLimpiar">
+	<summary>
+Control btnLimpiar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroUsuario.btnGuardar">
+	<summary>
+Control btnGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="T:NuevasTECS.dsReportes.materiaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:NuevasTECS.dsReportes.materiaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:NuevasTECS.dsReportes.materiaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:NuevasTECS.dsReportes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:NuevasTECS.dsReportesTableAdapters.materiaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.UpdateUpdatedRows(NuevasTECS.dsReportes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.UpdateInsertedRows(NuevasTECS.dsReportes,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.UpdateDeletedRows(NuevasTECS.dsReportes,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.UpdateAll(NuevasTECS.dsReportes)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:NuevasTECS.dsReportesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:NuevasTECS.dsReportesTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.txtMateria">
+	<summary>
+Control txtMateria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.txtCreditos">
+	<summary>
+Control txtCreditos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.txtCarrera">
+	<summary>
+Control txtCarrera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.lstLaboratorio">
+	<summary>
+Control lstLaboratorio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.lstActiva">
+	<summary>
+Control lstActiva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.txtFechaCreacion">
+	<summary>
+Control txtFechaCreacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.btnGuardar">
+	<summary>
+Control btnGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.lblMensaje">
+	<summary>
+Control lblMensaje.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.RegistroMateriaMast.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.Ejemplo.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.Ejemplo.CrystalReportViewer1">
+	<summary>
+Control CrystalReportViewer1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="T:NuevasTECS.dsNuevasTECS.pa_listadoEstudiantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.carreraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.estudiantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.pa_listadoEstudiantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.carreraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.estudiantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.pa_listadoEstudiantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.carreraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS.estudiantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECSTableAdapters.pa_listadoEstudiantesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECSTableAdapters.carreraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECSTableAdapters.estudiantesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.UpdateUpdatedRows(NuevasTECS.dsNuevasTECS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.UpdateInsertedRows(NuevasTECS.dsNuevasTECS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.UpdateDeletedRows(NuevasTECS.dsNuevasTECS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.UpdateAll(NuevasTECS.dsNuevasTECS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:NuevasTECS.dsNuevasTECSTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="F:NuevasTECS.ListadoEstudiantes.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.ListadoEstudiantes.sqlListadoEstudiantes">
+	<summary>
+Control sqlListadoEstudiantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.FormView1">
+	<summary>
+Control FormView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.ObjectDataSource1">
+	<summary>
+Control ObjectDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.FormView2">
+	<summary>
+Control FormView2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.ObjectDataSource3">
+	<summary>
+Control ObjectDataSource3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.FormView3">
+	<summary>
+Control FormView3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.SqlDataSource2">
+	<summary>
+Control SqlDataSource2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.IngFormViewMast.FormView4">
+	<summary>
+Control FormView4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.rptMateriasRespuesta.CrystalReportViewer1">
+	<summary>
+Control CrystalReportViewer1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagRegistro.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagRegistro.head">
+	<summary>
+Control head.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagRegistro.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.PagRegistro.ContentPlaceHolder1">
+	<summary>
+Control ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.txtCreditos">
+	<summary>
+Control txtCreditos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.btnBuscar">
+	<summary>
+Control btnBuscar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.txtNombre">
+	<summary>
+Control txtNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.btnBuscar0">
+	<summary>
+Control btnBuscar0.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.GridView2">
+	<summary>
+Control GridView2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.FiltoPorMatriculaMast.SqlDataSource2">
+	<summary>
+Control SqlDataSource2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:NuevasTECS.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:NuevasTECS.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:NuevasTECS.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:NuevasTECS.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:NuevasTECS.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:NuevasTECS.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NuevasTECS.estTxtMatricula.txtMatricula">
+	<summary>
+Control txtMatricula.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.estTxtMatricula.btnBuscar">
+	<summary>
+Control btnBuscar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.estTxtMatricula.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:NuevasTECS.estTxtMatricula.sqlListadoEstudianres">
+	<summary>
+Control sqlListadoEstudianres.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>

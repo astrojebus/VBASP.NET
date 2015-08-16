@@ -1,0 +1,89 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="PagPrincipal.master.vb" Inherits="NuevasTECS.PagPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 211px;
+            height: 206px;
+        }
+        .auto-style3 {
+            font-size: x-large;
+        }
+        .auto-style4 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <br />
+        <table class="auto-style1">
+            <tr>
+                <td>
+                    <img alt="" class="auto-style2" src="../Imagenes/img.gif" /></td>
+                <td class="auto-style4"><span class="auto-style3"><strong>PONTIFICIA UNIVERSIDAD CATOLICA DEL ECUADOR SEDE ESMERALDAS</strong></span><strong><br class="auto-style3" />
+                    <br class="auto-style3" />
+                    </strong><span class="auto-style3"><strong>INGENIERIA EN SISTEMAS Y COMPUTACION</strong></span><strong><br class="auto-style3" />
+                    <br class="auto-style3" />
+                    </strong><span class="auto-style3"><strong>NUEVAS TECNICAS DE PROGRAMACIÓN</strong></span></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td style="background-color: #9966FF">
+            <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" StaticSubMenuIndent="16px">
+                <Items>
+                    <asp:MenuItem Text="Estudiantes" Value="mnuEstudiantes">
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/RegistroEstudiantesMast.aspx" Text="Registrar" Value="Registrar"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Materias" Value="mnuMaterias">
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/RegistroMateriaMast.aspx" Text="Registrar" Value="mnuRegistrar"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Notas" Value="mnuNotas"></asp:MenuItem>
+                    <asp:MenuItem Text="Consultas" Value="mnuConsultas">
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/ListadoEstudiantes.aspx" Text="Listado Estudiantes" Value="Listado Estudiantes"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/estTxtMatricula.aspx" Text="Est. Por matricula" Value="Est. Por matricula"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/ListadoManualMaste.aspx" Text="Listados" Value="Listados"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/FiltoPorMatriculaMast.aspx" Text="Filtro Matr. Nombre" Value="Filtro Matr. Nombre"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Informes" Value="mnuInformes">
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/rptMateriasRespuesta.aspx" Text="Listado Materias" Value="Listado Materias"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Otros" Value="Otros">
+                        <asp:MenuItem NavigateUrl="~/Ejemplos/SaludoMast.aspx" Text="Saludo" Value="Saludo"></asp:MenuItem>
+                    </asp:MenuItem>
+                </Items>
+            </asp:Menu></td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;</td>
+                <td>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        
+            <p>
+                &nbsp;</p>
+        
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4" colspan="2">DESARROLLADO POR: GABRIEL COBEÑA </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

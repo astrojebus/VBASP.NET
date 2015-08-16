@@ -1,0 +1,54 @@
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.Resources.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll.config
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.pdb
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.xml
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.dll
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.xml
+c:\users\gabriel\documents\visual studio 2013\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.pdb
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.Resources.resources
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbproj.GenerateResource.Cache
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.dll
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.xml
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.pdb
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.pdb
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\bin\NuevasTECS.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.pdb
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.pdb
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.xml
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.Resources.resources
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbproj.GenerateResource.Cache
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.dll
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.xml
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.pdb
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll.config
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.pdb
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.xml
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbprojResolveAssemblyReference.cache
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.Resources.resources
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbproj.GenerateResource.Cache
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.dll
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.xml
+D:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.pdb
+E:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbprojResolveAssemblyReference.cache
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbprojResolveAssemblyReference.cache
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.Resources.resources
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbproj.GenerateResource.Cache
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.dll
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.xml
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.pdb
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.dll
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.pdb
+F:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\bin\NuevasTECS.xml
+H:\nuevas tec\VB\VB\NuevasTECS\NuevasTECS\obj\Debug\NuevasTECS.vbprojResolveAssemblyReference.cache

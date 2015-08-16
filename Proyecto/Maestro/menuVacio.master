@@ -1,0 +1,51 @@
+﻿<%@ Master Language="VB" CodeFile="menuVacio.master.vb" Inherits="Maestro_maestra" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head id="Head1" runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />     
+    <title><%: Page.Title %> - Mi aplicación ASP.NET</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="head" />
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="True">
+        <Scripts>
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+        </Scripts>
+    </asp:ScriptManager>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">
+                    <asp:Image ID="Image1" runat="server" Height="79px" ImageUrl="~/Images/grado.jpg" Width="86px" />
+                    Pontificia Universidad Católica del Ecuador</p>
+            </div>
+        </div>
+    </header>
+    <div class="content-wrapper" id="body">
+        <asp:ContentPlaceHolder runat="server" ID="ContentPlacerHolde1w" >
+        </asp:ContentPlaceHolder>
+        <section class="content-wrapper main-content clear-fix">
+            <asp:ContentPlaceHolder runat="server" ID="ContentPlaceHolder1" />
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>
+                    &copy; <%: DateTime.Now.Year %> - Desarrollado por Jesús Bustos
+                </p>
+            </div>
+        </div>
+    </footer>
+    </form>
+</body>
+</html>

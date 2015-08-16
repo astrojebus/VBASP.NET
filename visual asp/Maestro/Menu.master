@@ -1,0 +1,100 @@
+﻿<%@ Master Language="VB" CodeFile="Menu.master.vb" Inherits="Maestro_Menu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 225px;
+            height: 225px;
+        }
+        .auto-style3 {
+            width: 192px;
+        }
+        .auto-style4 {
+            width: 192px;
+            height: 87px;
+        }
+        .auto-style5 {
+            height: 87px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style3">
+                    <img class="auto-style2" src="../Images/apple.png" /></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td>
+                    <asp:Menu ID="Menu1" runat="server" BackColor="#E3EAEB" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#666666" Orientation="Horizontal" StaticSubMenuIndent="10px">
+                        <DynamicHoverStyle BackColor="#666666" ForeColor="White" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicMenuStyle BackColor="#E3EAEB" />
+                        <DynamicSelectedStyle BackColor="#1C5E55" />
+                        <Items>
+                            <asp:MenuItem Text="Inicio" Value="Inicio" NavigateUrl="~/ejemplos/saludos.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Ingresos" Value="Ingresos">
+                                <asp:MenuItem Text="Ingresos Estudiantes" Value="Ingresos Estudiantes" NavigateUrl="~/ejemplos/IngresoEstuMaestro.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Ingresos Materias" Value="Ingresos Materias" NavigateUrl="~/ejemplos/IngresoMateriasMaestro.aspx"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ejemplos/ingresocarrerasFormView.aspx" Text="Ingreso Carreras" Value="Ingreso Carreras"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="Consulta" Value="Consulta">
+                                <asp:MenuItem NavigateUrl="~/ejemplos/listadoestudiantesmaestro.aspx" Text="Listado estudiantes" Value="Listado estudiantes"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ejemplos/busquedapormateria.aspx" Text="Listado materias" Value="Listado materias"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ejemplos/EstuPorMatriculaMaestro.aspx" Text="Estudiantes por matricula" Value="Estudiantes por matricula"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ejemplos/listadonotas.aspx" Text="Listado notas" Value="Listado notas"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="Informes" Value="Informes">
+                                <asp:MenuItem NavigateUrl="~/Reportes/reporteMaterias.aspx" Text="Listado materia" Value="Listado materia"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Reportes/reporteEstudiantes.aspx" Text="Listado Estudiantes" Value="Listado Estudiantes"></asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle BackColor="#666666" ForeColor="White" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticSelectedStyle BackColor="#1C5E55" />
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4"></td>
+                <td class="auto-style5">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            <p>
+                <br />
+            </p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+            </p>
+            <p>
+            </p>
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
